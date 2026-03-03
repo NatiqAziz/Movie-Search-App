@@ -3,7 +3,7 @@
 **Search movies. Get instant details.**
 
 ## Live Demo
-link
+link: https://ombd-movie-search-app.netlify.app/
 
 ---
 
