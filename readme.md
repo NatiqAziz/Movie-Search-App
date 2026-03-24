@@ -22,4 +22,5 @@ HTML • CSS • JavaScript • OMDB API
 Get API key from: https://www.omdbapi.com/apikey.aspx  
 Replace `YOUR_API_KEY_HERE` in `app.js` with your key.
 
+Purpose is just learning.
 ---
